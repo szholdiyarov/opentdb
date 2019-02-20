@@ -1,4 +1,3 @@
-Sanity + React Native app example
 ===
 
 This is simple api fetcher application.
